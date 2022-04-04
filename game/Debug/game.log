@@ -1,0 +1,6 @@
+﻿  game.c
+  text.c
+c:\users\hp\source\repos\game\game\text.c(17): warning C4013: “Judge”未定义；假设外部返回 int
+c:\users\hp\source\repos\game\game\text.c(37): warning C4087: “rand”: 用“void”参数列表声明
+  正在生成代码...
+  game.vcxproj -> C:\Users\HP\source\repos\game\Debug\game.exe
