@@ -1,0 +1,3 @@
+﻿  text2022.22.c
+c:\users\hp\source\repos\meiju\meiju\text2022.22.c(25): warning C4101: “u”: 未引用的局部变量
+  meiju.vcxproj -> C:\Users\HP\source\repos\meiju\Debug\meiju.exe
